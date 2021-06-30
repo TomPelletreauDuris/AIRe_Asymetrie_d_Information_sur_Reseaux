@@ -51,4 +51,4 @@ s'auto-alimentant et se renforçant
 
 # Technologie et outils
 
-Cette étude se concentre sur l'application de la sociologie des réseaux sociaux par la théorie des graphes, l'utilisation d'algorithme de spatialisation de réseuax, l'appel à la théorie des jeux, l'utilisation du Data mining et du traitement de grande quantité de données.
+Cette étude se concentre sur l'application de la sociologie des réseaux sociaux par la théorie des graphes, l'utilisation d'algorithme de spatialisation de réseaux, l'appel à la théorie des jeux, l'utilisation du Data mining et du traitement de grande quantité de données.
